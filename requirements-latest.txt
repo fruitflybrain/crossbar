@@ -1,5 +1,5 @@
 attrs>=22.2.0
-autobahn[twisted,encryption,compress,serialization,scram] @ git+https://github.com/crossbario/autobahn-python@v23.6.1#egg=autobahn==23.6.1
+#autobahn[twisted,encryption,compress,serialization,scram] @ git+https://github.com/crossbario/autobahn-python@v23.6.1#egg=autobahn==23.6.1
 base58>=2.1.1
 bcrypt>=4.0.1
 bitstring>=4.0.1
